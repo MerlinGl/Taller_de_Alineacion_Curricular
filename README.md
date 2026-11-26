@@ -1,3 +1,5 @@
+<img src="merlin-logo.png" alt="Merlin" width="180">
+
 # Taller de Alineación Curricular
 
 Materiales del taller práctico de Merlin Global en el Cisco Academy Day (SINEACE · Merlin Global · Cisco Networking Academy, 120 minutos).
